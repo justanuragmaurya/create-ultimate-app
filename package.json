@@ -1,6 +1,6 @@
 {
   "name": "create-ultimate-app",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Create a Next.js app with authentication, Prisma, and Shadcn UI",
   "main": "index.js",
   "bin": {
